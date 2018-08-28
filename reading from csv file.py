@@ -1,3 +1,4 @@
+# This program reads from csv file and gives us the output and function is used here.
 import csv
 import sys
 def read_from_file(filename):
@@ -6,7 +7,7 @@ def read_from_file(filename):
         for rows in content:
             print(', '.join(rows))
     return
-filename = input('Enter the name of file: ')
+filename = input('Enter the name of file(with extension): ')
 try:
     read_from_file(filename)
     
