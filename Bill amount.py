@@ -1,4 +1,4 @@
-#Module 7
+# This is a program to calculate the amount of your bill on shopping usinf nested if else statements
 country = False
 country = input("Please enter your country: ").upper()
 purchase = float(input("Please enter the total amount of shopping you did: "))
