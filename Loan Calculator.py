@@ -1,3 +1,4 @@
+#This program is to calculate the number of payments you have to give each month for you to be loan free!
 # M = monthly payement
 # L = Loan amount
 #i = intrest rate(for an intrest of 5%, i = 0.05)
