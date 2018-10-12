@@ -2,7 +2,7 @@
 """
 Created on Fri Oct 12 23:47:36 2018
 
-@author: Chintu
+@author: Suhel
 """
 
 import graphics
